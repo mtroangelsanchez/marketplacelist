@@ -3,4 +3,7 @@
     <cache-path
         name="exported_files"
         path="exports/" />
+    <files-path
+        name="product_photos"
+        path="product_photos/" />
 </paths>

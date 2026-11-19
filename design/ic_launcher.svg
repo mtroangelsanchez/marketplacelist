@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fuente del ícono de la app: carrito de supermercado amarillo sobre fondo azul. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 108 108">
+  <rect width="108" height="108" rx="24" fill="#1565C0"/>
+  <g fill="none" stroke="#FFC107" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26,34 L36,34 L42,60 L74,60"/>
+    <path d="M42,60 L44,67 L72,67"/>
+  </g>
+  <path d="M38,40 L80,40 L74,60 L42,60 Z" fill="#FFC107" stroke="#FFC107" stroke-width="3" stroke-linejoin="round"/>
+  <g stroke="#1565C0" stroke-width="2" stroke-linecap="round">
+    <path d="M50,44 L52,56"/>
+    <path d="M58,44 L58,56"/>
+    <path d="M66,44 L64,56"/>
+  </g>
+  <circle cx="47" cy="75" r="4.5" fill="#FFC107"/>
+  <circle cx="70" cy="75" r="4.5" fill="#FFC107"/>
+</svg>
